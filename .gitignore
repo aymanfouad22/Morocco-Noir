@@ -4,3 +4,9 @@ target/
 node_modules/
 src/main/frontend/generated/
 vite.generated.ts
+
+# Ignore .env file
+.env
+# testing
+node_modules/
+src/main/java/com/example/application/views/akinator/AkinatorView.java

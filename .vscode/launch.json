@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Scenario1",
+      "request": "launch",
+      "mainClass": "com.example.application.views.Scenario1",
+      "projectName": "akinator"
+    },
+    {
+      "type": "java",
+      "name": "Game1",
+      "request": "launch",
+      "mainClass": "com.example.application.views.Game1",
+      "projectName": "akinator"
+    },
+    {
+      "type": "java",
       "name": "Launch Application",
       "request": "launch",
       "mainClass": "com.example.application.Application"
